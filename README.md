@@ -1,7 +1,7 @@
 # 📊 Análise de Vendas – Desafio **Alura Store**
 
 **Autor:** Bruno – Especialização em Data Science  
-**Data:** 18 de maio de 2025  
+  
 
 ---
 
